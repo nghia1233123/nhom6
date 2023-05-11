@@ -17,6 +17,15 @@ else if(c>=a && c>=b &&  c>=d) {
             System.out.println(b+ "\tb lon nhat");
     }else
         System.out.println(d+ "\t d lon nhat");
+//Thêm dòng quang s? c?p nh?t
+else if(c>=a && c>=b &&  c>=d) {
+            System.out.println(b+ "\tb lon nhat");
+    }else
+        System.out.println(d+ "\t d lon nhat");
+        
+   
+    
+    }
         
    
     
