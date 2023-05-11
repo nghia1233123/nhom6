@@ -5,7 +5,10 @@ public class Timgiatrilonnhat {
    
     Scanner input  = new Scanner(System.in);
     System.out.println("Nhap a: " );
-     int a = input.nextInt() ;
+       int a = input.nextInt() ;
+    System.out.println("Nhap b: ");
+       int b = input.nextInt() ;
+  // Truong Tat Trung (thieu nhap b)
     System.out.println("Nhap c: ");
        int c = input.nextInt() ; 
     System.out.println("Nhap d: " );
