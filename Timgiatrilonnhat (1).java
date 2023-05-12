@@ -1,4 +1,3 @@
-// truongtattrung cap nhap
 import java.util.Scanner;
 
 public class Timgiatrilonnhat {
