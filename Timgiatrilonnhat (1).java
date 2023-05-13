@@ -22,7 +22,5 @@ public class Timgiatrilonnhat {
         } else {
             System.out.println(d + "\t d lon nhat");
         }
-
     }
 }
-// truongtattrung cap nhap
